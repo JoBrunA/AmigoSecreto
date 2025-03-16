@@ -42,6 +42,23 @@ Después de escribir un nombre, queremos borrar el campo de texto para que esté
 Cada vez que alguien se inscriba, borraremos el cuadro de texto.
 ![image](https://github.com/user-attachments/assets/38c1cccb-f173-4dfc-bb2f-cde4168573e7)
 
+_____________________________________________________________________________________________________________________________
+Funcionamiento:
+1- Ingresar Nombres con el botón "añadir":
+![image](https://github.com/user-attachments/assets/ec6e8088-2581-437b-bb96-6e1ac8e60fb7)
+
+2- Terminar de ingresar la cantidad de amigos totales:
+![image](https://github.com/user-attachments/assets/f3979582-1835-46ee-964f-989ca5f16a80)
+
+3- Seleccionar el botón "Sortear Amigo":
+![image](https://github.com/user-attachments/assets/69fba1f1-d83a-465e-949f-363b835f1f3a)
+
+4- Tu amigo secreto ha sido seleccionado al azar:
+![image](https://github.com/user-attachments/assets/b903e90d-bf41-400d-940a-4b55d68ecfe3)
+
+
+
+
 
 
 
